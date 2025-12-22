@@ -8,8 +8,10 @@ and simple console-based applications.
 The projects are intentionally kept small and focused to clearly demonstrate individual concepts.
 
 ---
-```md
+
+
 ## 📁 Project Structure
+```md
 
 java-oop-basics/
 │
@@ -74,10 +76,10 @@ java-oop-basics/
 Run the compiled class:
 
 java ClassName
-📌 Some examples may include multiple classes.
+## 📌 Some examples may include multiple classes.
 In that case, compile all .java files in the folder before running the main class.
 
-🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository
 This repository is intended to:
 
 Practice Java fundamentals
@@ -88,7 +90,7 @@ Experiment with small, focused code examples
 
 Build a solid foundation for larger Java projects
 
-📞 Notes
+## 📞 Notes
 These examples are educational and kept intentionally simple
 
 IDE-specific files are not included
