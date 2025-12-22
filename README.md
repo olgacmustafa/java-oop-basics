@@ -8,7 +8,7 @@ and simple console-based applications.
 The projects are intentionally kept small and focused to clearly demonstrate individual concepts.
 
 ---
-
+```md
 ## 📁 Project Structure
 
 java-oop-basics/
@@ -41,7 +41,7 @@ java-oop-basics/
 │ └── Kaplan.java
 │
 └── README.md
-
+```
 
 
 ---
